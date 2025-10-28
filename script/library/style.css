@@ -1,0 +1,62 @@
+	<style type="text/css">
+		.table-list {
+	                  clear: both;
+	                  text-align: left;
+	                  border-collapse: collapse;
+	                  margin: 0px 0px 10px 0px;
+	                  background:#fff;	
+					  font-family:calibri;
+                    }
+		.table-list-home {
+	                       clear: both;
+	                       text-align: left;
+	                       border-collapse: collapse;
+	                       margin: 0px 0px 10px 0px;
+	                        /*background:#fff;	*/
+					       font-family:calibri;
+                         }
+		.rows_total {
+	                     color: #333; font-size: 14px; 
+	                     font-weight: 700; 
+	                     margin: 2px 2px 2px 2px; 
+	                     padding: 5px 5px; 
+	                     background:#0066FF; 
+	                     border-bottom: 1px solid #CCC; 	
+	                     border-top: 2px solid #FF9900;
+                       }
+		.table-list th {
+	                     color: #333; font-size: 14px; 
+	                     font-weight: 700; 
+	                     margin: 2px 2px 2px 2px; 
+	                     padding: 5px 5px; 
+	                     background: url(../images/head_white.jpg) repeat-x top #fff; 
+	                     border-bottom: 1px solid #CCC; 	
+	                     border-top: 2px solid #FF9900;
+                       }
+		.table-list td {
+	                     color: #333;
+	                     font-size:12px;
+	                     border-color: #fff;
+	                     border-collapse: collapse;
+	                     vertical-align: center;
+	                     padding: 3px 5px;
+	                     border-bottom:1px #CCCCCC solid;
+                       }
+		.scroll-rb {
+                      overflow: auto;
+                      height: 4000px;
+                      white-space: nowrap;
+                   }
+				   
+		.signature {
+	                     color: #333;
+	                     font-size:12px;
+	                     border-color: #fff;
+	                     border-collapse: collapse;
+	                     vertical-align: center;
+	                     padding: 3px 5px;
+                       }
+		#h2 {
+		      font-family:calibri;
+		    }  
+	</style>
