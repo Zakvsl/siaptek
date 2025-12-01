@@ -1,0 +1,19 @@
+{
+    "timestamp": "20251201_225049",
+    "data_source": "real_database",
+    "total_data": 454,
+    "train_size": 363,
+    "test_size": 91,
+    "features_count": 12,
+    "classifier": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "regressor": {
+        "mae": 5.3797404975207925,
+        "rmse": 6.96095002508924,
+        "r2_score": 0.9540859657002677
+    }
+}

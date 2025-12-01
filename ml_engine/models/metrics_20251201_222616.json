@@ -1,0 +1,38 @@
+{
+  "model_version": "20251201_222616",
+  "training_date": "2025-12-01 22:45:43",
+  "classifier": {
+    "accuracy": 0.9560439560439561,
+    "precision": 0.8571428571428571,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.75,
+    "cv_mean": 0.9807077625570775,
+    "cv_std": 0.006774494089579258
+  },
+  "regressor": {
+    "mae": 6.615608306641111,
+    "rmse": 8.020800968256324,
+    "r2_score": 0.7288726115488202,
+    "cv_mean_mae": 6.400900950987984,
+    "cv_std_mae": 0.6164775505383672
+  },
+  "dataset": {
+    "total_samples": 454,
+    "training_samples": 363,
+    "testing_samples": 91,
+    "features": [
+      "umur_aset_bulan",
+      "kategori_id",
+      "branch_id",
+      "frekuensi_issuing_6bulan",
+      "frekuensi_return_6bulan",
+      "avg_durasi_pemakaian_hari",
+      "total_hari_digunakan",
+      "jumlah_kerusakan",
+      "hari_sejak_kerusakan_terakhir",
+      "pernah_diperbaiki",
+      "lama_di_customer_hari",
+      "intensitas_penggunaan_score"
+    ]
+  }
+}
